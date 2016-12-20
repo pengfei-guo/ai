@@ -1,0 +1,19 @@
+.pinkgreen_word{
+	color:#33FFAC;
+}
+
+
+
+.pinkblue_background{
+	background-color:#33DDFF;
+}
+
+
+
+body{
+	background-image: url("../images/einstein.jpg");
+	background-repeat: no-repeat;
+	background-size: 20%;
+	background-position: 777px 0px; 
+	background-attachment: local;
+}
