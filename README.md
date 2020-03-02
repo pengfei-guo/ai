@@ -6,5 +6,4 @@ Add name:
 pengfei guo
 
 My job:
-PhD candidate in electro-optics.
-
+Process Engineer at Silfex, A Division of Lam Research
